@@ -6,6 +6,7 @@
     <groupId>io.github.zakiis</groupId>
     <artifactId>zakiis-parent</artifactId>
     <version>0.0.5</version>
+    <relativePath>../parent/pom.xml</relativePath>
   </parent>
   
   <artifactId>zakiis-dependencies</artifactId>
@@ -149,4 +150,5 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+ 
 </project>
